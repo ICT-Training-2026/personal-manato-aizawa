@@ -1,4 +1,4 @@
-pakage company;
+package company;
 
 public class Product{
 
